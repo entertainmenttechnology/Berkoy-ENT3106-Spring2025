@@ -153,7 +153,7 @@ _Unless otherwise announced, our typical day will go like this:_
 _The schedule is subject to change as needed._      
 
 **Session 1, 1/28:** BHN by Allison, Introductions, Project Overview, Set Up   
-**Session 2, 2/4:** BHN by TBD, R&D Challenge 1        
+**Session 2, 2/4:** BHN by Gabe, R&D Challenge 1        
 **Session 3, 2/11:** BHN by TBD, R&D Challenge 1      
 (2/18: NO CLASS - COLLEGE CLOSED)     
 **Session 4, 2/25:** BHN by TBD, Challenge 1 due / Presentations / Field Trip      
