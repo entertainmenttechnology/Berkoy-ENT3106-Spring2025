@@ -59,7 +59,7 @@ The main mission for R&D 1 is to become as familiar as possible with the project
 **RAD 1 PRESENTATION:**    
 * Present a 10-15 minute summary of your findings.  
   
-## Researchers (Noel, Eric, Aaron) and Creative Technologist (Gabe or Jay)   
+## Researchers (Noel, Eric, Aaron) and Creative Technologist (Gabe)   
 Work jointly and/or divide up the following research needs.  
 
 **Research Types of Depth Sensing Technology:**
@@ -104,7 +104,7 @@ We are updating our depth camera from prototype V1, which was a Kinect 360 depth
 **Collaborative R&D 1 Presentation:**      
 * Present a 10-20ish minute summary of your findings.  
   
-## Software Developers (Ten) + Creative Technologist (Gabe or Jay)
+## Software Developers (Ten) + Creative Technologist (Jay)
 
 **Research and Test API Integration:** 
 * Review past API materials on our Google Drive, update presentation and report as needed, and bring them up to date.  
