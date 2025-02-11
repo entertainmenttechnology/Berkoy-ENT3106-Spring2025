@@ -156,20 +156,20 @@ _The schedule is subject to change as needed. Updated 2/8/25._
 **Session 2, 2/4:** Asynch Lab          
 **Session 3, 2/11:** BHN by GABE, R&D Challenge 1      
 (2/18: NO CLASS - COLLEGE CLOSED)     
-**Session 4, 2/25:** BHN by TBD, R&D Challenge 1      
-**Session 5, 3/4:** BHN by TBD, R&D Challenge 1 due / Presentations / Field Trip       
-**Session 6, 3/11:** BHN by TBD, R&D Challenge 2      
-**Session 7, 3/18:** BHN by TBD, R&D Challenge 2              
-**Session 8, 3/25:** BHN by TBD, R&D Challenge 2 due / Presentations / Workshop                
-**Session 9, 4/1:** BHN by TBD, R&D Challenge 3   
-**Session 10, 4/8:** BHN by TBD, R&D Challenge 3   
+**Session 4, 2/25:** BHN by Aaron, R&D Challenge 1      
+**Session 5, 3/4:** BHN by Jay, R&D Challenge 1 due / Presentations / Field Trip       
+**Session 6, 3/11:** BHN by Noel, R&D Challenge 2      
+**Session 7, 3/18:** BHN by Ten, R&D Challenge 2              
+**Session 8, 3/25:** BHN by Eric, R&D Challenge 2 due / Presentations / IfMagic Workshop                
+**Session 9, 4/1:** BHN by Gabriel, R&D Challenge 3   
+**Session 10, 4/8:** BHN by Aaron, R&D Challenge 3   
 (4/15: NO CLASS - COLLEGE CLOSED)                       
-**Session 11, 4/22:** BHN by TBD, R&D Challenge 3 due, Presentations, Field Trip               
-**Session 12, 4/29:** BHN by TBD, R&D Challenge 4           
-**Session 13, 5/6:** BHN by TBD, R&D Challenge 4 due / Presentations / Spring Show Prep       
+**Session 11, 4/22:** BHN by Jay, R&D Challenge 3 due, Presentations, Field Trip               
+**Session 12, 4/29:** BHN by Noel, R&D Challenge 4           
+**Session 13, 5/6:** BHN by Ten, R&D Challenge 4 due / Presentations / Spring Show Prep       
 (**MTEC SPRING SHOW, Thursday, 5/8** Setup TBD, 5-7 PM Project Run)      
-**Session 14, 5/13:** BHN by TBD, Assess Spring Show Findings, Project Iteration, Documentation Clean Up         
-**Session 15, 5/20:** BHN by TBD, Project Wrap Up and Future Planning                       
+**Session 14, 5/13:** BHN by Gabe, Assess Spring Show Findings, Project Iteration, Documentation Clean Up         
+**Session 15, 5/20:** BHN by Jay, Project Wrap Up and Future Planning                       
  
    
 
