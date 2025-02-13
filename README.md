@@ -1,4 +1,4 @@
-## ENT 3320 D031: TECHNICAL PRODUCTION   
+## ENT 3106 D031: TECHNICAL PRODUCTION   
 **ARE YOU PREPARED? V.2**       
 Emerging Media Technologies (MTEC)   
 Department of Entertainment Technology   
@@ -7,7 +7,7 @@ Spring 2025
      
   
 ## COURSE INFORMATION     
-**ENT 3320 Technical Production Section D031**       
+**ENT 3106 Technical Production Section D031**       
 _3 credits, 9 lab hours_  
 **When:** Tuesdays 11:30 AM - 2:00 PM and 2:30 PM - 5:00 PM (in person) and online asynchronous   
 **Location:** Voorhees V103B     
